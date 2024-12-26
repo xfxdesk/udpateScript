@@ -49,13 +49,3 @@ jobs:
           git add README.md
           git commit -m "Auto-update README.md: Update timestamp" || echo "No changes to commit"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/xfxdesk/udpateScript.git
-
-      # 7. 提交和推送更新到 Wiki 仓库
-      - name: Commit and Push Wiki Updates
-        run: |
-          cd wiki
-          git config --local user.name "github-actions"
-          git config --local user.email "actions@github.com"
-          git add .
-          git commit -m "Auto-update Wiki: Increment domains and update timestamp" || echo "No changes to commit"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/xfxdesk/udpateScript.git
