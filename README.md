@@ -63,7 +63,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="4">搜tg <a =href="https://soutg.com"> soutg.com</a>提供🔍中文搜索🔍资源直达</br>在telegram中搜索 机器人<a href="https://t.me/baidusou_bot">baidusou_bot</a></br>帮你找到telegram上有趣的群组、频道、视频、音乐、电影、新闻,</br>如需加入机器人索引请在频道中添加机器人 @baidusou_sp01_bot ，并赋予读取信息权限</td>
+    <td colspan="4">搜tg <a href="https://soutg.com"> soutg.com</a>提供🔍中文搜索🔍资源直达</br>在telegram中搜索 机器人<a href="https://t.me/baidusou_bot">baidusou_bot</a></br>帮你找到telegram上有趣的群组、频道、视频、音乐、电影、新闻,</br>如需加入机器人索引请在频道中添加机器人 @baidusou_sp01_bot ，并赋予读取信息权限</td>
   </tr>
 </table>
 
