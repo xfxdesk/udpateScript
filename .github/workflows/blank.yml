@@ -22,7 +22,7 @@ jobs:
       # 2. 克隆 Wiki 仓库到 wiki 目录
       - name: Checkout Wiki Repository
         run: |
-          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Alvin9999/new-pac.wiki.git wiki
+          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/xfxdesk/udpateScript.git wiki
 
       # 3. 设置 Python 环境
       - name: Set up Python
