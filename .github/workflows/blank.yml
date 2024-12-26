@@ -34,6 +34,7 @@ jobs:
       - name: Install Dependencies
         run: |
           pip install pytz
+          pip install scrapy
 
       # 5. 运行更新脚本
       - name: Run Update Script
