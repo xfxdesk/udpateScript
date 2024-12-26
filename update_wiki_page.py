@@ -35,7 +35,7 @@ class MySpider(scrapy.Spider):
         title = response.css('title::text').get()
         print(title)
         # 更新域名数字，适配单个域名 167557.xyz
-        updated_content = f" 开始 \n- 免费节点分享 \n- 域名: {self.start_urls} \n- 标题:{title} \n- 内容: \n{data} \n- 更新时间: {current_time} \n结束"
+        updated_content = f" 免费节点分享 \n- 域名: {self.start_urls} \n- 标题:{title} \n- 内容: \n{data} \n- 更新时间: {current_time} \n结束"
         # ====== 更新 README.md 文件 ======
         if not os.path.exists(readme_file):
             raise FileNotFoundError(f"{readme_file} 不存在，请检查路径。")
@@ -45,7 +45,7 @@ class MySpider(scrapy.Spider):
 
         # 替换 README.md 中的更新时间
         updated_readme_content = re.sub(
-            r" 开始.*结束",
+            r" 免费节点分享.*结束",
             updated_content,
             readme_content,
             flags=re.DOTALL
