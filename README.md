@@ -73,7 +73,7 @@
 - 内容: 
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=d802e91523e0487bf1fe234d7c323232
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=c2309f1670c2659b23cc1041de071b62
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=679f84246ed9c6f535cab3ff1ce6b2c4
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=9b2499da55df6ae2cf196eb91e9dcd09 
-- 更新时间: 2024年12月30日14点20分 
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=9b2499da55df6ae2cf196eb91e9dcd09
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=679f84246ed9c6f535cab3ff1ce6b2c4 
+- 更新时间: 2024年12月30日14点41分 
 结束
