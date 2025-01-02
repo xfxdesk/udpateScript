@@ -69,11 +69,11 @@
 
 - 免费节点分享 
 - 域名: ['https://smxfx.com'] 
-- 标题:2025年1月1日,免费V2Ray节点大放送！4个订阅地址 + 10个高速免费节点,支持Clash、V2rayN等主流软件,秒速连接高速服务器终身免费VPN服务，解锁科学上网新体验，轻松获取高质量代理，免费上网梯子，稳定快速！v2ray，clash机场，科学上网翻墙白嫖节点，免费梯子，白嫖梯子，免费代理，永久免费代理  |  山猫想分享 
+- 标题:2025年1月2日,免费V2Ray节点大放送！4个订阅地址 + 10个高速免费节点,支持Clash、V2rayN等主流软件,秒速连接高速服务器终身免费VPN服务，解锁科学上网新体验，轻松获取高质量代理，免费上网梯子，稳定快速！v2ray，clash机场，科学上网翻墙白嫖节点，免费梯子，白嫖梯子，免费代理，永久免费代理  |  山猫想分享 
 - 内容: 
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=39ec9dcc79ef58a1d0d70ae5d78007f0
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=420d5c960312cb37c9a7049341ddb865
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=3afea48d33f28e4922c8ae3cf08e1e1b
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=259a133633b6c11fa12f97d60e05aea6 
-- 更新时间: 2025年01月02日10点21分 
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=186c9c66af0a09cd4de5a9d34df3199a
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=6c80ea3334ff0370faa06d9af00cb1dc
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=02edcf99ded598cee5e883194e28d59a
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=fb45d2ac23794b4f1c3f7198c7c2c779 
+- 更新时间: 2025年01月02日10点59分 
 结束
