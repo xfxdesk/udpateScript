@@ -69,8 +69,11 @@
 
 - 免费节点分享 
 - 域名: ['https://smxfx.com'] 
-- 标题:极速吧Cloud —— 0 元购买“小试一把”50GB️/30 天套餐  |  山猫想分享 
+- 标题:2025年1月15日,免费V2Ray节点大放送！4个订阅地址 + 10个高速免费节点,支持Clash、V2rayN等主流软件,秒速连接高速服务器终身免费VPN服务，解锁科学上网新体验，轻松获取高质量代理，免费上网梯子，稳定快速！v2ray，clash机场，科学上网翻墙白嫖节点，免费梯子，白嫖梯子，免费代理，永久免费代理  |  山猫想分享 
 - 内容: 
- 
-- 更新时间: 2025年01月15日10点19分 
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=41e66d340a23e8302a4858da443e5f30
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=df653b5f798c395fb0f735df060854e5
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=aa211a2c3aeacc6a988a093981def89f
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=438c38c020daecbee455d58082ac8dc2 
+- 更新时间: 2025年01月15日10点54分 
 结束
