@@ -69,8 +69,11 @@
 
 - 免费节点分享 
 - 域名: ['https://smxfx.com'] 
-- 标题:起雾机场 —— 0 元购买“试用套餐”40GB️/30 天套餐  |  山猫想分享 
+- 标题:2025年1月16日,免费V2Ray节点大放送！4个订阅地址 + 10个高速免费节点,支持Clash、V2rayN等主流软件,秒速连接高速服务器终身免费VPN服务，解锁科学上网新体验，轻松获取高质量代理，免费上网梯子，稳定快速！v2ray，clash机场，科学上网翻墙白嫖节点，免费梯子，白嫖梯子，免费代理，永久免费代理  |  山猫想分享 
 - 内容: 
- 
-- 更新时间: 2025年01月16日09点10分 
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=c7f840ccedce1c32cb256c9c76f9c963
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=94cf85cd3fc3a6854ae6f433575753e1
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=844f7b6d7bc288066276df043ef0b315
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=b57dc991841580dafa2e91801fa34c1f 
+- 更新时间: 2025年01月16日10点26分 
 结束
