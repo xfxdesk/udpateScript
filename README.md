@@ -69,11 +69,8 @@
 
 - 免费节点分享 
 - 域名: ['https://smxfx.com'] 
-- 标题:2025年1月20日,免费V2Ray节点大放送！4个订阅地址 + 10个高速免费节点,支持Clash、V2rayN等主流软件,秒速连接高速服务器终身免费VPN服务，解锁科学上网新体验，轻松获取高质量代理，免费上网梯子，稳定快速！v2ray，clash机场，科学上网翻墙白嫖节点，免费梯子，白嫖梯子，免费代理，永久免费代理  |  山猫想分享 
+- 标题:一元乐享  直连机场—— 0 元购买“一元乐享”500GB️/30 天套餐  |  山猫想分享 
 - 内容: 
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=74c063eedd25204bfc6082a7b905f746
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=b4edc6a6587a80bd2551294efa3979d0
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=ed964a47dcbdc142c7e76a9a5f22b861
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=14d0f5bb0c65bb689f6f02234c1811c5 
-- 更新时间: 2025年01月20日14点41分 
+ 
+- 更新时间: 2025年01月20日14点54分 
 结束
