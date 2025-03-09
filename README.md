@@ -69,17 +69,17 @@
 
 - 免费节点分享 
 - 域名: ['https://smxfx.com'] 
-- 标题:2025年3月7日,免费V2Ray节点大放送！10个订阅地址 + 20个高速免费节点,支持Clash、V2rayN等主流软件,秒速连接高速服务器终身免费VPN服务，解锁科学上网新体验，轻松获取高质量代理，免费上网梯子，稳定快速！v2ray，clash机场，科学上网翻墙白嫖节点，免费梯子，白嫖梯子，免费代理，永久免费代理  |  山猫想分享 
+- 标题:2025年3月9日,免费V2Ray节点大放送！10个订阅地址 + 20个高速免费节点,支持Clash、V2rayN等主流软件,秒速连接高速服务器终身免费VPN服务，解锁科学上网新体验，轻松获取高质量代理，免费上网梯子，稳定快速！v2ray，clash机场，科学上网翻墙白嫖节点，免费梯子，白嫖梯子，免费代理，永久免费代理  |  山猫想分享 
 - 内容: 
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=6573a6705a36a5adaa149bf7dd61cfe0
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=187c8f592f313907bfb4ecd1b8baf714
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=7283561c4b56bd85c86471d74bedbfad
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=c5c0ebc8122a4d0c9665c31977008019
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=addde1d73b92bbe298e3b894eddd5546
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=655a8b279637f585fdb27feb8ea5744c
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=2c3f1ca4453248e3aa5ce8b59f659dbd
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=1a2b4921da58a0d150d40565692661e3
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=dfcc53499cffc641498f27e7db0fe0ff
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=63e94f82e400a9a97af94bba7e850192 
-- 更新时间: 2025年03月09日11点56分 
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=bdfba9a3549ccf4afd4bfaafac861d51
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=4c485240bf712d8c774ca033a71a5b0c
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=8f48af5861e4535ef1814ed84e36c3bd
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=b4a74bdbf121c8fe77daa8a339611347
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=adfaa916b920473d97928ae17cada1b6
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=6e7f0c085a9e8f619909a064bda0675b
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=3adae8a214cdf7fc6257676bd3fc9c4b
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=32d99ebffc4cf311380b0853cf98c4ae
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=0aaf0635d0da3299d89b4c8b63dfbe59
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=2bff953470404fac860314cbbe5fe277 
+- 更新时间: 2025年03月09日12点15分 
 结束
