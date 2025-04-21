@@ -71,15 +71,15 @@
 - 域名: ['https://smxfx.com'] 
 - 标题:2025年4月21号！共享免费的V2Ray节点，10个订阅地址，20个免费的高速节点，支持流行的Clash、V2rayN，秒速接入，终生免费 VPN，开启全新的网络体验，更容易获得优质的代理，免费梯子，更快更稳！Shadowsocks，Trojan机场，科技互联网爬墙，免费梯子，免费代理商，永久免费代理商  |  山猫想分享 
 - 内容: 
+http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=d13773fe62da7ac8250397c5b3335775
 http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=4f9cfe1894e5b0ec4dd3c258ee3fa5d4
-http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=1e8a7de8f12ad8d1d8b0232e49fe292f
+http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=f886f56c772817add338747d37edb734
 http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=22d764402cbde794162a9f6c676c3477
 http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=75870f209de0c79769f159626b2c8adc
-http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=6a5bf6e03ef6a286caaa49e529195cc9
+http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=2cd41ed6c06492a078957727f6ea13eb
 http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=626aa33d8a8243594bbcf2705aeac95b
-http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=d13773fe62da7ac8250397c5b3335775
-http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=0ccc2333192ceef815770a8657600adc
-http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=f886f56c772817add338747d37edb734
-http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=2cd41ed6c06492a078957727f6ea13eb 
-- 更新时间: 2025年04月21日19点27分 
+http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=6a5bf6e03ef6a286caaa49e529195cc9
+http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=1e8a7de8f12ad8d1d8b0232e49fe292f
+http://subxfxssr.xfxvpn.me/api/v1/client/subscribe?token=0ccc2333192ceef815770a8657600adc 
+- 更新时间: 2025年04月21日19点37分 
 结束
